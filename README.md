@@ -1,14 +1,20 @@
 # Banco de Dados MySQL
 
-Este repositório contém scripts, exemplos e procedimentos para o estudo e prática de banco de dados MySQL. O foco é ajudar a compreender e aplicar conceitos básicos e intermediários, como:
+Repositório com exemplos, scripts e anotações para estudo e prática com banco de dados MySQL. Inclui desde comandos básicos até consultas mais avançadas.
 
-- Criação e manipulação de tabelas
-- Relacionamentos entre tabelas (chaves primárias e estrangeiras)
-- Consultas SQL (SELECT, INSERT, UPDATE, DELETE)
-- Procedures e triggers
-- Controle de integridade e restrições
-- Exercícios práticos para fixação dos conceitos
+## Conteúdo
 
-Ideal para estudantes e profissionais que desejam fortalecer a base em MySQL e gestão de dados relacionais.
+- Instalação e configuração do MySQL
+- Comandos básicos de criação, leitura, atualização e exclusão (CRUD)
+- Definição de tabelas, chaves primárias e estrangeiras
+- Índices e otimização de consultas
+- Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
+- Subconsultas e views
+- Procedimentos armazenados e triggers
+- Backup e restauração de bancos de dados
 
-Sinta-se à vontade para explorar os scripts, testar no seu ambiente e contribuir com melhorias!
+## Objetivo
+
+- Aprender a manipular bancos de dados relacionais com MySQL
+- Criar uma base sólida para projetos que envolvam persistência de dados
+- Compartilhar scripts e dicas úteis para o dia a dia
